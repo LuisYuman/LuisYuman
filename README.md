@@ -32,3 +32,31 @@
 - Hablame de: Programacion, Matematicas y animexd
 
 - Me puede contactar mediante mi numero telefonico o: ***lyuman737@gmail.com***
+
+<div align="left">
+    <h3> Lenguajes y herramientas </h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LINKEDIN" alt="LINKEDIN"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON"
+        width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCODE" alt="VSCODE"
+        width="40" height="40"/>&nbsp;
+    </div>
+</div>
+
+---
