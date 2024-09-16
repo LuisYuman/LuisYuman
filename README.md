@@ -27,7 +27,7 @@
 
 ### Sobre mi :
 
-- Actualmente estoy aprendiendo: ***CSS, JS, HTML, C++, C#, PYTHON, PHP, MYSQL***
+- Actualmente estoy aprendiendo: ***CSS, JS, HTML, JAVA, MYSQL***
 
 - Hablame de: Programacion, Matematicas y animexd
 
